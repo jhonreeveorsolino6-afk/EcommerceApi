@@ -10,7 +10,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Represents a product in the e-commerce catalog.
+ * Repr;esents a product in the e-commerce catalog.
  *
  * <p>Contains all relevant product information including pricing,
  * inventory tracking, and categorization. Validation annotations
